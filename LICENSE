@@ -1,5 +1,6 @@
 Перед компиляцией, прочтите !
 Данная программа и компьютерный движок принадлежат фрилансеру Андрею Владимировичу Баженову и Александру Владимировичу Баженову, а так же Компании Fox Soft Inc.
+Технические консультанты: Андрей Владимирович Баженов и Алексей Юрьевич Дружинин из Auch Entertainment Inc.
 Санкт - Петербург 2015 - 2025 г. Copyright (c)
 Санкт - Петербург 2015 - 2025 г. Copyright (c)
 Графика игры принадлежит программистам Андрею  Владимировичу Баженову, Александру Владимировичу Баженову и Ринату Гильманшину дизайнеру из Москвы. Copyright (c)
@@ -7,10 +8,21 @@
 Откомпилированный код запрещено продавать, но можно использовать в качестве ознакомления с игровым продуктом.
 Правообладателем исходного кода *.pas являются основатели компании.
 ###
-This program and computer engine are owned by freelancer Andrei Vladimirovich Bazhenov and Alexander Vladimirovich Bazhenov, as well as by Fox Soft Inc.
-St. Petersburg 2015 - 2025 Copyright (c)
-St. Petersburg 2015 - 2025 Copyright (c)
-The graphics of the game belong to programmers Andrey Vladimirovich Bazhenov, Alexander Vladimirovich Bazhenov and Rinat Gilmanshin, a designer from Moscow. Copyright (c)
-The compiled code is freely distributed in the following countries: Brazil, Russia, India, China, Singapore, they are also the BRICS trade organization.
-The compiled code is prohibited for sale, but can be used as a preview of the game product.
-The copyright holder of the source code *.pas is the founders of the company.
+This program and computer engine belong to freelancer Andrey Vladimirovich Bazhenov and Alexander Vladimirovich Bazhenov, as well as Fox Soft Inc.
+Technical consultants: Andrey Vladimirovich Bazhenov and Alexey Yuryevich Druzhinin from Auch Entertainment Inc.
+Saint Petersburg 2015 - 2025. Copyright (c)
+Saint Petersburg 2015 - 2025. Copyright (c)
+The game graphics belong to programmers Andrey Vladimirovich Bazhenov, Alexander Vladimirovich Bazhenov and Rinat Gilmanshin, a designer from Moscow. Copyright (c)
+The compiled code is freely distributed in the following countries: Brazil, Russia, India, China, Singapore, they are also the BRICS trade organization + new countries that joined.
+The compiled code is prohibited to sell, but can be used as an introduction to the game product.
+The copyright holder of the *.pas source code is the founders of the company.
+###
+Este programa e mecanismo de computador pertencem aos freelancers Andrei Vladimirovich Bazhenov e Alexander Vladimirovich Bazhenov, bem como à Fox Soft Inc.
+Consultores técnicos: Andrey Vladimirovich Bazhenov e Alexey Yuryevich Druzhinin da Auch Entertainment Inc.
+São Petersburgo 2015 - 2025 Copyright (c)
+São Petersburgo 2015 - 2025 Copyright (c)
+Os gráficos do jogo pertencem aos programadores Andrei Vladimirovich Bazhenov, Alexander Vladimirovich Bazhenov e Rinat Gilmanshin, designer de Moscou. Direitos autorais (c)
+O código compilado é distribuído gratuitamente nos seguintes países: Brasil, Rússia, Índia, China, Cingapura, eles também são a organização comercial do BRICS + novos países membros.
+O código compilado está proibido de ser vendido, mas pode ser usado como uma introdução ao produto do jogo.
+O detentor dos direitos autorais do código-fonte *.pas são os fundadores da empresa.
+###
